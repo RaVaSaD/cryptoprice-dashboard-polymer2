@@ -1,0 +1,21 @@
+{
+  "name": "cryptoprice-dashboard-polymer2",
+  "authors": [
+    "Sergio Gutiérrez"
+  ],
+  "description": "This is a CryptoPrice Dashboard custom element build with Polymer 2.0",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0"
+  }
+}
